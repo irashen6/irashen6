@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/irashen6" alt="GitHub">
   </a>
   <a href="https://irashen6.github.io/">
-    blog
+    <img src="https://img.shields.io/badge/-Blog-0A66C2?style=flat-square&logo=githubpages&logoColor=white" alt="Blog">
   </a>
 </p>
 
