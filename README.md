@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="mailto:shenzy97zxfdd@gmail.com">
+  <a href="https://irashen6.github.io/">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shenzy97zxfdd@gmail.com" alt="Email">
   </a>
   <a href="https://github.com/irashen6">
